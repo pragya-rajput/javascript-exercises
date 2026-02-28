@@ -9,7 +9,7 @@
 
 // Add your code right below, good luck!
 
-
+console.log('"Hello! My name is ' + First name + Last name + " and I am " +  1965 - 1947 + "years old.")
 
 
 
